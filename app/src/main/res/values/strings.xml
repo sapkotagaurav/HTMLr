@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTMLr</string>
+    <string-array name="htmltags">
+        <item>html</item>
+        <item>head</item>
+
+
+    </string-array>
+</resources>

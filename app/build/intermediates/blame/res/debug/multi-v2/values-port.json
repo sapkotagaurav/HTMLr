@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/gauravsapkota/AndroidStudioProjects/HTMLr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/gauravsapkota/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d66728bce0e35e376cc0a18ba787f51b/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

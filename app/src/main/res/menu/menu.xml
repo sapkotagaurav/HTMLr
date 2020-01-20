@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+    <item
+        android:title="compile"
+        android:id="@+id/compile"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        android:icon="@drawable/canvas"
+
+        />
+
+    <item
+        android:id="@+id/save"
+        app:showAsAction="always"
+        android:icon="@drawable/saveico"
+        android:title="Save"/>
+    <item
+        android:id="@+id/newl"
+        android:title="New"
+        app:showAsAction="never"/>
+    <item
+        android:title="Open"
+        android:id="@+id/open"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/saveas"
+        android:title="Save As"
+        app:showAsAction="never"/>
+    <item
+        android:title="Load basic layout"
+        app:showAsAction="never"
+        android:id="@+id/load"/>
+    <item
+        android:id="@+id/wrap"
+        app:showAsAction="never"
+        android:title="No WordWrap"/>
+
+    <item
+        android:title="Rate Us"
+        android:id="@+id/rate"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/rate"/>
+    <item
+        android:title="Swap Theme"
+        android:id="@+id/theme"
+        app:showAsAction="never"/>
+    <item
+        android:title="Tutorials"
+        android:id="@+id/tutorials"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback"
+        app:showAsAction="never"/>
+
+
+
+
+</menu>
